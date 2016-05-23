@@ -1,0 +1,8 @@
+[package]
+name = "fetch_json"
+version = "0.1.0"
+authors = ["Tom Martin <tom@tpgmartin.com>"]
+
+[dependencies]
+curl = "0.2.19"
+serde_json = "0.7.0"
